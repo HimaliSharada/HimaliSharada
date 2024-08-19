@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @HimaliSharada
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning python, java, c++
+- 💞️ I’m looking to collaborate on python projects, beginner friendly.
+- 📫 How to reach me: you don't.
+- ⚡ Fun fact: i can touch my nose with my tongue.
