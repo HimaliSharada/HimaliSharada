@@ -2,4 +2,3 @@
 - 👀 I’m interested in anything and everything
 - 🌱 I’m currently learning python and c sharp
 - 📫 How to reach me: you don't.
-- ⚡ Fun fact: i can touch my nose with my tongue.
