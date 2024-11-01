@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HimaliSharada
-- 👀 I’m interested in anything and everything
-- 🌱 I’m currently learning python and c sharp
+- 👀 I’m interested in nunya
+- 🌱 I’m currently learning business
 - 📫 How to reach me: you don't.
