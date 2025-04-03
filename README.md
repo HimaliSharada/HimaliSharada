@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HimaliSharada
 - 👀 I’m interested in nunya
-- 🌱 I’m currently learning business
+- 🌱 I’m currently learning a programming language
 - 📫 How to reach me: you don't.
